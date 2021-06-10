@@ -1,4 +1,4 @@
-<p align= "center" text-weight="bold"> Hi, Kiptoo Dennis here </p>
+<p align= "center" text-weight="900"> Hi, Kiptoo Dennis here </p>
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=demuk&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
