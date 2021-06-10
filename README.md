@@ -1,7 +1,6 @@
 # Hi, Kiptoo Dennis here
 
 <br>
-<br>
 
 ### Tech & Tools Preference
 
