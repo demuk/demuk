@@ -1,6 +1,7 @@
-<div align="center">
-<p style="font-size:30px" > Hi, Kiptoo Dennis here </p>
 
+## Hi, Kiptoo Dennis here
+
+<div align="center">
 <br>
 
 <p style="font-size:20px"> Tech & Tools Preference </p>
